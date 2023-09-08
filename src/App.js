@@ -9,7 +9,6 @@ function App() {
       </div>
       <div className="LoginButton">
         <button>Login</button>
-        <button>Register</button>
       </div>
     </div>
       <div className="LandPage">
